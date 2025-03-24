@@ -9,6 +9,8 @@ Realiza un proyecto React que replique el formulario, teniendo en cuenta que deb
 
 ## Cómo ejecutar
 
-1.- Clona el repositorio.
-2.- Instala las dependencias con `npm install`.
-3. - Ejecuta `npm start`.
+1. Clona el repositorio.
+
+2. Instala las dependencias con `npm install`.
+
+3. Ejecuta `npm start`.
